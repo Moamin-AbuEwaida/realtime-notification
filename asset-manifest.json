@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/realtime-notification/static/css/main.119476e1.css",
+    "main.js": "/realtime-notification/static/js/main.a7dbe4bd.js",
+    "static/media/settings.svg": "/realtime-notification/static/media/settings.6c9ed5caf33ccdc6ccfe0381a3a0fcd7.svg",
+    "static/media/message.svg": "/realtime-notification/static/media/message.93deaeec0423c94739c675356a4985b1.svg",
+    "static/media/notification.svg": "/realtime-notification/static/media/notification.6932bcb1f6880256413e05997ec2fade.svg",
+    "static/media/heart.svg": "/realtime-notification/static/media/heart.1c427a0d880da384056c1d5216d71cf2.svg",
+    "static/media/comment.svg": "/realtime-notification/static/media/comment.82385318a911f59faf08ac278fc83c46.svg",
+    "static/media/info.svg": "/realtime-notification/static/media/info.65491871becb9c5d806b2c22775d06c7.svg",
+    "index.html": "/realtime-notification/index.html",
+    "static/media/heartFilled.svg": "/realtime-notification/static/media/heartFilled.e478bfaa9ce0657e56df145e201ff918.svg",
+    "static/media/share.svg": "/realtime-notification/static/media/share.e57fe67926f17de16a0e6ace3b6c493a.svg",
+    "main.119476e1.css.map": "/realtime-notification/static/css/main.119476e1.css.map",
+    "main.a7dbe4bd.js.map": "/realtime-notification/static/js/main.a7dbe4bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119476e1.css",
+    "static/js/main.a7dbe4bd.js"
+  ]
+}
