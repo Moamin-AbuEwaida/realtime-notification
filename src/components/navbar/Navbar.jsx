@@ -10,9 +10,9 @@ const Navbar = ({ socket }) => {
 
   useEffect(() => {
     socket.on("getNotification", (data) => {
-      setNotifications((prev) => [...prev, data]);
+      setNotifications([...notifications, data]);
     });
-  }, [socket]);
+  }, [socket, notifications]);
 
   // console.log(notifications);
 
